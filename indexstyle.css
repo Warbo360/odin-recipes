@@ -1,10 +1,15 @@
 * {
-    font-family: serif
+    font-family: serif;
+    background-color: lightgoldenrodyellow;
 }
 
 .header {
     text-decoration: underline;
     font-size: 200px;
+    border-style: groove;
+    border-color: black;
+    border-width: 20px;
+    border-radius: 20px;
 }
 
 ul {
@@ -19,6 +24,11 @@ body {
 a {
     text-decoration: none;
      color: purple;
+    font-weight: bold;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 5px;
 }
 
 a:hover {
@@ -26,6 +36,14 @@ a:hover {
 }
 
 .pic {
-    height: 200px;
+    height: 3S00px;
     width: auto;
+    border-style: groove;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+li { 
+    padding: 10px;
 }
