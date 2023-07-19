@@ -10,6 +10,8 @@
     border-color: black;
     border-width: 20px;
     border-radius: 20px;
+    background-color: white;
+    margin-bottom: 50px;
 }
 
 ul {
@@ -29,6 +31,8 @@ a {
     border-color: black;
     border-radius: 10px;
     border-width: 5px;
+    padding: 5px;
+    background-color: white;
 }
 
 a:hover {
@@ -36,7 +40,7 @@ a:hover {
 }
 
 .pic {
-    height: 3S00px;
+    height: 300px;
     width: auto;
     border-style: groove;
     border-color: black;
